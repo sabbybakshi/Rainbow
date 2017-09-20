@@ -1,3 +1,9 @@
 this repo is to learn basics.
 
+
 in master .changes happens. another commit to master 
+
+lets create branch and push /pull in branch1
+
+now comes btranch1 with new changes
+
